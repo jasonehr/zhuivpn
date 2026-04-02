@@ -72,7 +72,7 @@
 在中国好用的VPN，免费提供31天的试用期。它具有出色的流媒体解锁功能和支持P2P共享的能力，并提供专用IP地址。
 
 > [!TIP]
-> ### 活动福利（下载安装后，告诉客服暗号“jiasuwu”，即可获得1天免费试用）。
+> ### 专属福利（下载安装后，告诉客服暗号“jiasuwu”，新用户即可获得1天免费试用）。
 
 <p dir="auto">领取VPN加速器优惠&gt;&gt; <a href="https://www.jiasuwu.com/download/" rel="nofollow"><strong>免费VPN试用</strong></a></p>
 
