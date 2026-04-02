@@ -56,28 +56,26 @@
 
 界面易上手，连接比较稳定，适合要求不高的用户，主要加速香港地区，其他美国、德国、日本、新加坡节点也有。
 
-> [!TIP]
-> ### 活动福利（下载安装后，告诉客服暗号“jiasuwu”，即可获得1天免费试用）。
-
-追星加速器如何使用? <A href="https://www.jiasuwu.com/" target="_blank">追星加速器下载</A>
 
 ## 2、StrongVPN - 速度延迟表现最佳，且支持支付宝
 
 提供30天免费试用期，在中国翻墙表现良好，具有快速的连接速度和不限流量的服务。
 
-StrongVPN如何使用? <A href="https://www.jiasuwu.com/" target="_blank">StrongVPN下载</A>
 
 ## 3、NordVPN - 老牌翻墙VPN，使用体验最好
 
 可以免费使用30天，允许您在无限制的设备上同时登陆，并提供私密浏览功能和特殊翻墙模式。
 
-NordVPN如何使用? <A href="https://www.jiasuwu.com/" target="_blank">NordVPN下载</A>
 
 ## 4、PureVPN - 价格便宜，适合低预算
 
 在中国好用的VPN，免费提供31天的试用期。它具有出色的流媒体解锁功能和支持P2P共享的能力，并提供专用IP地址。
 
-PureVPN如何使用? <A href="https://www.jiasuwu.com/" target="_blank">PureVPN下载</A>
+> [!TIP]
+> ### 活动福利（下载安装后，告诉客服暗号“jiasuwu”，即可获得1天免费试用）。
+
+<p dir="auto">领取VPN加速器优惠&gt;&gt; <a href="https://www.jiasuwu.com/download/" rel="nofollow"><strong>免费VPN试用</strong></a></p>
+
 
 # 四、国内还能用的免费VPN盘点
 
