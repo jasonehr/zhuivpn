@@ -188,6 +188,9 @@ PrivadoVPN 成立时间相对较晚(2019 年)，总部设在瑞士。它强调�
 
 # 👉相关内容推荐：
 
+<p dir="auto"><a href="https://github.com/jasonehr/letsvpn" target="_blank">快连vpn用不了跑路平替推荐：科学上网好用的VPN外网加速器</a></p>
+<p dir="auto"><a href="https://github.com/asherV2026/nordvpn" target="_blank">NordVPN在中国还能用吗？2026年科学上网翻墙替代VPN梯子推荐</a></p>
+<p dir="auto"><a href="https://github.com/novacross5/vpntool" target="_blank">2026翻墙梯子推荐：科学上网加速器VPN、靠谱外网魔法梯子</a></p>
 <p dir="auto"><a href="https://github.com/besthot-vpn/free-vpn" target="_blank">四款外网免费的VPN加速器推荐，电脑手机都可用的科学上网梯子</a></p>
 <p dir="auto"><a href="https://github.com/besthot-vpn/share-vpn" target="_blank">四个可以上谷歌的免费加速器VPN推荐：海外网络加速器梯子指南</a></p>
 <p dir="auto"><a href="https://github.com/besthot-vpn/android-vpn" target="_blank">2026最好用的安卓VPN推荐，中国安卓手机平板翻墙外网魔法梯子</a></p>
